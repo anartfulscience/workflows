@@ -1,1 +1,1 @@
-output_style = :expanded
+output_style = :compressed
